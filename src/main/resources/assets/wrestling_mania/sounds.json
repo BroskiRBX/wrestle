@@ -1,0 +1,9 @@
+{
+	"crowd_cheer": {
+		"subtitle": "subtitles.wrestling_mania.crowd_cheer",
+		"sounds": [
+			{ "name": "minecraft:entity.villager.celebrate", "type": "event" },
+			{ "name": "minecraft:entity.player.levelup", "type": "event" }
+		]
+	}
+}

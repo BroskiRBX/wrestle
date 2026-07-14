@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "wrestling_mania",
+	"version": "${version}",
+	"name": "Wrestling Mania",
+	"description": "Spawnable wrestling arenas, breakable tables, finisher moves with GeckoLib animations, and crowd ambience.",
+	"authors": ["Deniro"],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/wrestling_mania/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.example.wrestlingmania.WrestlingMania"],
+		"client": ["com.example.wrestlingmania.WrestlingManiaClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"fabric-api": "*",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"geckolib": ">=4.0.0"
+	}
+}

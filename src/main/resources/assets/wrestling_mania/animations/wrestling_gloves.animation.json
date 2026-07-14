@@ -1,0 +1,32 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.wrestling_gloves.suplex": {
+			"animation_length": 0.7,
+			"bones": {
+				"glove": {
+					"rotation": { "0.0": [0, 0, 0], "0.25": [-140, 0, 0], "0.45": [-160, 0, 0], "0.7": [0, 0, 0] },
+					"position": { "0.0": [0, 0, 0], "0.25": [0, 7, -2], "0.45": [0, 8, -3], "0.7": [0, 0, 0] }
+				}
+			}
+		},
+		"animation.wrestling_gloves.ddt": {
+			"animation_length": 0.6,
+			"bones": {
+				"glove": {
+					"rotation": { "0.0": [0, 0, 0], "0.2": [60, 0, 0], "0.35": [120, 0, 0], "0.6": [0, 0, 0] },
+					"position": { "0.0": [0, 0, 0], "0.2": [0, 3, 2], "0.35": [0, -4, 3], "0.6": [0, 0, 0] }
+				}
+			}
+		},
+		"animation.wrestling_gloves.clothesline": {
+			"animation_length": 0.5,
+			"bones": {
+				"glove": {
+					"rotation": { "0.0": [0, 0, 0], "0.2": [0, -90, -20], "0.35": [0, -170, -30], "0.5": [0, 0, 0] },
+					"position": { "0.0": [0, 0, 0], "0.2": [3, 1, 0], "0.35": [-3, 1, 0], "0.5": [0, 0, 0] }
+				}
+			}
+		}
+	}
+}

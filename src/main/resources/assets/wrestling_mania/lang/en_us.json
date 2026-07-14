@@ -1,0 +1,23 @@
+{
+	"item.wrestling_mania.arena_ticket": "Arena Ticket",
+	"item.wrestling_mania.wrestling_gloves": "Wrestling Gloves",
+	"block.wrestling_mania.breakable_table": "Breakable Table",
+	"block.wrestling_mania.arena_core": "Arena Core",
+
+	"key.category.wrestling_mania": "Wrestling Mania",
+	"key.wrestling_mania.suplex": "Finisher: Suplex",
+	"key.wrestling_mania.ddt": "Finisher: DDT",
+	"key.wrestling_mania.clothesline": "Finisher: Clothesline",
+
+	"message.wrestling_mania.no_space": "Not enough flat open space for the arena here!",
+	"message.wrestling_mania.arena_built": "The arena is set. Let's get ready to rumble!",
+	"message.wrestling_mania.no_target": "No opponent in range!",
+	"message.wrestling_mania.on_cooldown": "That finisher is still on cooldown!",
+	"message.wrestling_mania.need_gloves": "You need Wrestling Gloves in your main hand!",
+
+	"move.wrestling_mania.suplex": "Suplex",
+	"move.wrestling_mania.ddt": "DDT",
+	"move.wrestling_mania.clothesline": "Clothesline",
+
+	"subtitles.wrestling_mania.crowd_cheer": "Crowd cheers"
+}
